@@ -4,10 +4,10 @@ Tags: Wordpress Mega Menu Plugin animated, jquery, full and fix screen box, spee
 Stable tag: 1.0.0
 Description:Wordpress Mega Menu Plugin provides rich animated effects with full and fix screen layouts. Mega menu plugin have various features including speed control, custom css, font sizing, featured image, round and box image upload, title and description block. 
 
-Live Demo,
+Demo:
 http://themesexperts.com/wmenu/
 
-Plugin Documentation:
+Documentation:
 https://www.youtube.com/watch?v=e6f_P_RuC-Q
 
 == Description ==
