@@ -6,6 +6,7 @@ Description:Wordpress Mega Menu Plugin provides rich animated effects with full 
 
 Download our plugin for free from,
 http://themesexperts.com/wmenu/
+
 Plugin Documentation:
 https://www.youtube.com/watch?v=e6f_P_RuC-Q
 
